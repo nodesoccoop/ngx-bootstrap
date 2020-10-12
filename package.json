@@ -199,7 +199,7 @@
     "wait-on": "2.1.0",
     "wallaby-webpack": "3.9.7",
     "web-animations-js": "2.3.2",
-    "webpack-bundle-analyzer": "2.11.3",
+    "webpack-bundle-analyzer": "3.3.2",
     "webpack-cli": "3.3.0",
     "zone.js": "0.9.1"
   }
